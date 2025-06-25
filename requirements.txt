@@ -4,7 +4,7 @@ opencv_python
 opencv_python_headless
 Pillow
 pytube
-streamlit
+streamlit==1.35.0
 streamlit_webrtc
 ultralytics
 fpdf
