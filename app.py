@@ -660,7 +660,7 @@ st.markdown("""
 
 /* Header styling */
 header[data-testid="stHeader"] {
-    background: #FFFFFF !important; /* Header putih */
+    background: #87CEEB !important; /* Header putih */
     color: #1a1a1a !important; /* Warna teks hitam */
     height: 70px !important;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1) !important;
